@@ -1,4 +1,4 @@
-﻿# Demo Calculator
+﻿# Demo Calculator [Async]
 
 ![Screenshot](/img/screen.png)
 
